@@ -1,0 +1,10 @@
+{
+  "enabledMcpjsonServers": [
+    "context7"
+  ],
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/tanakayuuichirou/Documents/Otsukai-Quest -maxdepth 2 -type f -name *.json -o -name *.ts -o -name *.tsx -o -name *.js -o -name *.jsx)"
+    ]
+  }
+}
